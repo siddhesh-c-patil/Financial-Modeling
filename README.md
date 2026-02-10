@@ -1,3 +1,5 @@
+# Financial Forecasting & Scenario Analysis Model (Excel)
+
 ### Project Overview
 
 This project demonstrates a financial forecasting and scenario analysis model built in Microsoft Excel using a sample dataset. The model projects key financial metrics such as revenue, expenses, and profitability over multiple future years using structured assumptions and dynamic formulas.
@@ -44,3 +46,8 @@ This project is created using a sample dataset for educational and portfolio pur
 * Open the Excel file in Microsoft Excel
 * Modify the assumptions to see how projections change
 * Review forecasted financial statements and insights
+
+### Project Takeaways
+
+* Built an end-to-end financial projection model using a sample dataset
+* Understanding of scenario-based financial analysis
